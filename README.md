@@ -55,7 +55,7 @@
 
 1. 克隆项目到本地
 ```bash
-git clone https://github.com/your-username/wuliang_engine.git
+git clone https://github.com/ipeng/wuliang_engine.git
 cd wuliang_engine
 ```
 
@@ -132,8 +132,8 @@ portrait = analyzer.generate_portrait(user_data)
 
 ## 联系我们
 
-- 项目维护者: [Your Name](mailto:your.email@example.com)
-- 项目主页: [GitHub Repository](https://github.com/your-username/wuliang_engine)
+- 项目维护者: [ipeng](mailto:ipeng@example.com)
+- 项目主页: [GitHub Repository](https://github.com/ipeng/wuliang_engine)
 
 ## 致谢
 
