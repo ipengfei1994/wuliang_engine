@@ -1,0 +1,4797 @@
+{
+    "user_metrics": [
+        {
+            "user_id": "user65",
+            "total_actions": 319,
+            "unique_actions": 7,
+            "active_days": 267,
+            "avg_daily_actions": 1.1947565543071161,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user18",
+            "total_actions": 336,
+            "unique_actions": 7,
+            "active_days": 282,
+            "avg_daily_actions": 1.1914893617021276,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user39",
+            "total_actions": 333,
+            "unique_actions": 7,
+            "active_days": 278,
+            "avg_daily_actions": 1.1978417266187051,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user129",
+            "total_actions": 143,
+            "unique_actions": 7,
+            "active_days": 127,
+            "avg_daily_actions": 1.125984251968504,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user150",
+            "total_actions": 126,
+            "unique_actions": 7,
+            "active_days": 110,
+            "avg_daily_actions": 1.1454545454545455,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2023-12-13T00:00:00"
+        },
+        {
+            "user_id": "user257",
+            "total_actions": 98,
+            "unique_actions": 7,
+            "active_days": 91,
+            "avg_daily_actions": 1.0769230769230769,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2023-12-19T00:00:00"
+        },
+        {
+            "user_id": "user28",
+            "total_actions": 289,
+            "unique_actions": 7,
+            "active_days": 247,
+            "avg_daily_actions": 1.1700404858299596,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user10",
+            "total_actions": 298,
+            "unique_actions": 7,
+            "active_days": 251,
+            "avg_daily_actions": 1.1872509960159363,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user84",
+            "total_actions": 314,
+            "unique_actions": 7,
+            "active_days": 271,
+            "avg_daily_actions": 1.1586715867158672,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user113",
+            "total_actions": 146,
+            "unique_actions": 7,
+            "active_days": 124,
+            "avg_daily_actions": 1.1774193548387097,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-13T00:00:00"
+        },
+        {
+            "user_id": "user127",
+            "total_actions": 124,
+            "unique_actions": 7,
+            "active_days": 110,
+            "avg_daily_actions": 1.1272727272727272,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-17T00:00:00"
+        },
+        {
+            "user_id": "user93",
+            "total_actions": 301,
+            "unique_actions": 7,
+            "active_days": 254,
+            "avg_daily_actions": 1.18503937007874,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user66",
+            "total_actions": 317,
+            "unique_actions": 7,
+            "active_days": 265,
+            "avg_daily_actions": 1.1962264150943396,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user332",
+            "total_actions": 36,
+            "unique_actions": 7,
+            "active_days": 34,
+            "avg_daily_actions": 1.0588235294117647,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2021-08-19T00:00:00"
+        },
+        {
+            "user_id": "user88",
+            "total_actions": 314,
+            "unique_actions": 7,
+            "active_days": 264,
+            "avg_daily_actions": 1.1893939393939394,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user90",
+            "total_actions": 321,
+            "unique_actions": 7,
+            "active_days": 270,
+            "avg_daily_actions": 1.1888888888888889,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user128",
+            "total_actions": 152,
+            "unique_actions": 7,
+            "active_days": 130,
+            "avg_daily_actions": 1.1692307692307693,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user130",
+            "total_actions": 124,
+            "unique_actions": 7,
+            "active_days": 104,
+            "avg_daily_actions": 1.1923076923076923,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user79",
+            "total_actions": 273,
+            "unique_actions": 7,
+            "active_days": 235,
+            "avg_daily_actions": 1.1617021276595745,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user136",
+            "total_actions": 140,
+            "unique_actions": 7,
+            "active_days": 117,
+            "avg_daily_actions": 1.1965811965811965,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-21T00:00:00"
+        },
+        {
+            "user_id": "user325",
+            "total_actions": 25,
+            "unique_actions": 6,
+            "active_days": 24,
+            "avg_daily_actions": 1.0416666666666667,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2021-08-27T00:00:00"
+        },
+        {
+            "user_id": "user27",
+            "total_actions": 329,
+            "unique_actions": 7,
+            "active_days": 277,
+            "avg_daily_actions": 1.187725631768953,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user95",
+            "total_actions": 320,
+            "unique_actions": 7,
+            "active_days": 257,
+            "avg_daily_actions": 1.245136186770428,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user96",
+            "total_actions": 352,
+            "unique_actions": 7,
+            "active_days": 285,
+            "avg_daily_actions": 1.2350877192982457,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user78",
+            "total_actions": 291,
+            "unique_actions": 7,
+            "active_days": 238,
+            "avg_daily_actions": 1.2226890756302522,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user15",
+            "total_actions": 317,
+            "unique_actions": 7,
+            "active_days": 265,
+            "avg_daily_actions": 1.1962264150943396,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user60",
+            "total_actions": 285,
+            "unique_actions": 7,
+            "active_days": 237,
+            "avg_daily_actions": 1.2025316455696202,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user134",
+            "total_actions": 157,
+            "unique_actions": 7,
+            "active_days": 141,
+            "avg_daily_actions": 1.1134751773049645,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-18T00:00:00"
+        },
+        {
+            "user_id": "user167",
+            "total_actions": 95,
+            "unique_actions": 7,
+            "active_days": 91,
+            "avg_daily_actions": 1.043956043956044,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2023-12-31T00:00:00"
+        },
+        {
+            "user_id": "user133",
+            "total_actions": 138,
+            "unique_actions": 7,
+            "active_days": 119,
+            "avg_daily_actions": 1.1596638655462186,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-18T00:00:00"
+        },
+        {
+            "user_id": "user13",
+            "total_actions": 307,
+            "unique_actions": 7,
+            "active_days": 256,
+            "avg_daily_actions": 1.19921875,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user69",
+            "total_actions": 298,
+            "unique_actions": 7,
+            "active_days": 237,
+            "avg_daily_actions": 1.2573839662447257,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user97",
+            "total_actions": 300,
+            "unique_actions": 7,
+            "active_days": 243,
+            "avg_daily_actions": 1.2345679012345678,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user101",
+            "total_actions": 163,
+            "unique_actions": 7,
+            "active_days": 140,
+            "avg_daily_actions": 1.1642857142857144,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-12T00:00:00"
+        },
+        {
+            "user_id": "user42",
+            "total_actions": 327,
+            "unique_actions": 7,
+            "active_days": 258,
+            "avg_daily_actions": 1.2674418604651163,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user63",
+            "total_actions": 300,
+            "unique_actions": 7,
+            "active_days": 259,
+            "avg_daily_actions": 1.1583011583011582,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user94",
+            "total_actions": 312,
+            "unique_actions": 7,
+            "active_days": 264,
+            "avg_daily_actions": 1.1818181818181819,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user9",
+            "total_actions": 326,
+            "unique_actions": 7,
+            "active_days": 275,
+            "avg_daily_actions": 1.1854545454545455,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user225",
+            "total_actions": 74,
+            "unique_actions": 7,
+            "active_days": 71,
+            "avg_daily_actions": 1.0422535211267605,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2023-12-21T00:00:00"
+        },
+        {
+            "user_id": "user349",
+            "total_actions": 28,
+            "unique_actions": 7,
+            "active_days": 27,
+            "avg_daily_actions": 1.037037037037037,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2021-10-24T00:00:00"
+        },
+        {
+            "user_id": "user106",
+            "total_actions": 160,
+            "unique_actions": 7,
+            "active_days": 142,
+            "avg_daily_actions": 1.1267605633802817,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-07T00:00:00"
+        },
+        {
+            "user_id": "user271",
+            "total_actions": 92,
+            "unique_actions": 7,
+            "active_days": 84,
+            "avg_daily_actions": 1.0952380952380953,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user22",
+            "total_actions": 341,
+            "unique_actions": 7,
+            "active_days": 285,
+            "avg_daily_actions": 1.1964912280701754,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user232",
+            "total_actions": 83,
+            "unique_actions": 7,
+            "active_days": 75,
+            "avg_daily_actions": 1.1066666666666667,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user115",
+            "total_actions": 128,
+            "unique_actions": 7,
+            "active_days": 112,
+            "avg_daily_actions": 1.1428571428571428,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user49",
+            "total_actions": 331,
+            "unique_actions": 7,
+            "active_days": 283,
+            "avg_daily_actions": 1.1696113074204948,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user110",
+            "total_actions": 151,
+            "unique_actions": 7,
+            "active_days": 131,
+            "avg_daily_actions": 1.1526717557251909,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-15T00:00:00"
+        },
+        {
+            "user_id": "user242",
+            "total_actions": 95,
+            "unique_actions": 7,
+            "active_days": 89,
+            "avg_daily_actions": 1.0674157303370786,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user34",
+            "total_actions": 299,
+            "unique_actions": 7,
+            "active_days": 246,
+            "avg_daily_actions": 1.2154471544715446,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user109",
+            "total_actions": 134,
+            "unique_actions": 7,
+            "active_days": 112,
+            "avg_daily_actions": 1.1964285714285714,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-19T00:00:00"
+        },
+        {
+            "user_id": "user7",
+            "total_actions": 285,
+            "unique_actions": 7,
+            "active_days": 240,
+            "avg_daily_actions": 1.1875,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user283",
+            "total_actions": 106,
+            "unique_actions": 7,
+            "active_days": 98,
+            "avg_daily_actions": 1.0816326530612246,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-12T00:00:00"
+        },
+        {
+            "user_id": "user284",
+            "total_actions": 87,
+            "unique_actions": 7,
+            "active_days": 82,
+            "avg_daily_actions": 1.0609756097560976,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-18T00:00:00"
+        },
+        {
+            "user_id": "user82",
+            "total_actions": 293,
+            "unique_actions": 7,
+            "active_days": 250,
+            "avg_daily_actions": 1.172,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user62",
+            "total_actions": 296,
+            "unique_actions": 7,
+            "active_days": 246,
+            "avg_daily_actions": 1.2032520325203253,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user122",
+            "total_actions": 151,
+            "unique_actions": 7,
+            "active_days": 135,
+            "avg_daily_actions": 1.1185185185185185,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2023-12-24T00:00:00"
+        },
+        {
+            "user_id": "user293",
+            "total_actions": 113,
+            "unique_actions": 7,
+            "active_days": 108,
+            "avg_daily_actions": 1.0462962962962963,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user152",
+            "total_actions": 102,
+            "unique_actions": 7,
+            "active_days": 94,
+            "avg_daily_actions": 1.0851063829787233,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-16T00:00:00"
+        },
+        {
+            "user_id": "user264",
+            "total_actions": 106,
+            "unique_actions": 7,
+            "active_days": 101,
+            "avg_daily_actions": 1.0495049504950495,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-07T00:00:00"
+        },
+        {
+            "user_id": "user135",
+            "total_actions": 121,
+            "unique_actions": 7,
+            "active_days": 112,
+            "avg_daily_actions": 1.0803571428571428,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user64",
+            "total_actions": 322,
+            "unique_actions": 7,
+            "active_days": 277,
+            "avg_daily_actions": 1.1624548736462095,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user288",
+            "total_actions": 106,
+            "unique_actions": 7,
+            "active_days": 102,
+            "avg_daily_actions": 1.0392156862745099,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-09T00:00:00"
+        },
+        {
+            "user_id": "user75",
+            "total_actions": 328,
+            "unique_actions": 7,
+            "active_days": 274,
+            "avg_daily_actions": 1.197080291970803,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user40",
+            "total_actions": 291,
+            "unique_actions": 7,
+            "active_days": 247,
+            "avg_daily_actions": 1.1781376518218623,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user287",
+            "total_actions": 97,
+            "unique_actions": 7,
+            "active_days": 92,
+            "avg_daily_actions": 1.0543478260869565,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-07T00:00:00"
+        },
+        {
+            "user_id": "user285",
+            "total_actions": 84,
+            "unique_actions": 7,
+            "active_days": 80,
+            "avg_daily_actions": 1.05,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user55",
+            "total_actions": 293,
+            "unique_actions": 7,
+            "active_days": 236,
+            "avg_daily_actions": 1.2415254237288136,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user175",
+            "total_actions": 85,
+            "unique_actions": 7,
+            "active_days": 80,
+            "avg_daily_actions": 1.0625,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user191",
+            "total_actions": 83,
+            "unique_actions": 7,
+            "active_days": 81,
+            "avg_daily_actions": 1.0246913580246915,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user83",
+            "total_actions": 293,
+            "unique_actions": 7,
+            "active_days": 256,
+            "avg_daily_actions": 1.14453125,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user312",
+            "total_actions": 36,
+            "unique_actions": 6,
+            "active_days": 33,
+            "avg_daily_actions": 1.0909090909090908,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2021-10-01T00:00:00"
+        },
+        {
+            "user_id": "user143",
+            "total_actions": 145,
+            "unique_actions": 7,
+            "active_days": 127,
+            "avg_daily_actions": 1.141732283464567,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-17T00:00:00"
+        },
+        {
+            "user_id": "user322",
+            "total_actions": 39,
+            "unique_actions": 6,
+            "active_days": 36,
+            "avg_daily_actions": 1.0833333333333333,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2021-12-14T00:00:00"
+        },
+        {
+            "user_id": "user41",
+            "total_actions": 309,
+            "unique_actions": 7,
+            "active_days": 264,
+            "avg_daily_actions": 1.1704545454545454,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user72",
+            "total_actions": 315,
+            "unique_actions": 7,
+            "active_days": 266,
+            "avg_daily_actions": 1.1842105263157894,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user188",
+            "total_actions": 104,
+            "unique_actions": 7,
+            "active_days": 102,
+            "avg_daily_actions": 1.0196078431372548,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-22T00:00:00"
+        },
+        {
+            "user_id": "user274",
+            "total_actions": 104,
+            "unique_actions": 7,
+            "active_days": 98,
+            "avg_daily_actions": 1.0612244897959184,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-12T00:00:00"
+        },
+        {
+            "user_id": "user45",
+            "total_actions": 281,
+            "unique_actions": 7,
+            "active_days": 235,
+            "avg_daily_actions": 1.195744680851064,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user314",
+            "total_actions": 36,
+            "unique_actions": 7,
+            "active_days": 33,
+            "avg_daily_actions": 1.0909090909090908,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2021-12-01T00:00:00"
+        },
+        {
+            "user_id": "user181",
+            "total_actions": 85,
+            "unique_actions": 7,
+            "active_days": 79,
+            "avg_daily_actions": 1.0759493670886076,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2023-12-19T00:00:00"
+        },
+        {
+            "user_id": "user142",
+            "total_actions": 119,
+            "unique_actions": 7,
+            "active_days": 108,
+            "avg_daily_actions": 1.1018518518518519,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2023-12-11T00:00:00"
+        },
+        {
+            "user_id": "user189",
+            "total_actions": 74,
+            "unique_actions": 7,
+            "active_days": 72,
+            "avg_daily_actions": 1.0277777777777777,
+            "first_action": "2021-01-01T00:00:00",
+            "last_action": "2023-12-22T00:00:00"
+        },
+        {
+            "user_id": "user222",
+            "total_actions": 101,
+            "unique_actions": 7,
+            "active_days": 97,
+            "avg_daily_actions": 1.041237113402062,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-22T00:00:00"
+        },
+        {
+            "user_id": "user6",
+            "total_actions": 332,
+            "unique_actions": 7,
+            "active_days": 284,
+            "avg_daily_actions": 1.1690140845070423,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user11",
+            "total_actions": 311,
+            "unique_actions": 7,
+            "active_days": 276,
+            "avg_daily_actions": 1.1268115942028984,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user50",
+            "total_actions": 293,
+            "unique_actions": 7,
+            "active_days": 251,
+            "avg_daily_actions": 1.1673306772908367,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user161",
+            "total_actions": 101,
+            "unique_actions": 7,
+            "active_days": 98,
+            "avg_daily_actions": 1.030612244897959,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2023-12-23T00:00:00"
+        },
+        {
+            "user_id": "user199",
+            "total_actions": 103,
+            "unique_actions": 7,
+            "active_days": 97,
+            "avg_daily_actions": 1.0618556701030928,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user292",
+            "total_actions": 97,
+            "unique_actions": 7,
+            "active_days": 95,
+            "avg_daily_actions": 1.0210526315789474,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user223",
+            "total_actions": 79,
+            "unique_actions": 7,
+            "active_days": 74,
+            "avg_daily_actions": 1.0675675675675675,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2023-11-27T00:00:00"
+        },
+        {
+            "user_id": "user56",
+            "total_actions": 281,
+            "unique_actions": 7,
+            "active_days": 241,
+            "avg_daily_actions": 1.16597510373444,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user153",
+            "total_actions": 97,
+            "unique_actions": 7,
+            "active_days": 92,
+            "avg_daily_actions": 1.0543478260869565,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-25T00:00:00"
+        },
+        {
+            "user_id": "user123",
+            "total_actions": 129,
+            "unique_actions": 7,
+            "active_days": 110,
+            "avg_daily_actions": 1.1727272727272726,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-05T00:00:00"
+        },
+        {
+            "user_id": "user91",
+            "total_actions": 328,
+            "unique_actions": 7,
+            "active_days": 269,
+            "avg_daily_actions": 1.2193308550185873,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user182",
+            "total_actions": 92,
+            "unique_actions": 7,
+            "active_days": 85,
+            "avg_daily_actions": 1.0823529411764705,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user296",
+            "total_actions": 105,
+            "unique_actions": 7,
+            "active_days": 100,
+            "avg_daily_actions": 1.05,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user44",
+            "total_actions": 313,
+            "unique_actions": 7,
+            "active_days": 269,
+            "avg_daily_actions": 1.1635687732342008,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user58",
+            "total_actions": 316,
+            "unique_actions": 7,
+            "active_days": 272,
+            "avg_daily_actions": 1.161764705882353,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user154",
+            "total_actions": 91,
+            "unique_actions": 7,
+            "active_days": 88,
+            "avg_daily_actions": 1.0340909090909092,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user145",
+            "total_actions": 126,
+            "unique_actions": 7,
+            "active_days": 107,
+            "avg_daily_actions": 1.1775700934579438,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-03T00:00:00"
+        },
+        {
+            "user_id": "user119",
+            "total_actions": 144,
+            "unique_actions": 7,
+            "active_days": 126,
+            "avg_daily_actions": 1.1428571428571428,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2023-12-17T00:00:00"
+        },
+        {
+            "user_id": "user59",
+            "total_actions": 307,
+            "unique_actions": 7,
+            "active_days": 266,
+            "avg_daily_actions": 1.1541353383458646,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user198",
+            "total_actions": 105,
+            "unique_actions": 7,
+            "active_days": 97,
+            "avg_daily_actions": 1.0824742268041236,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user147",
+            "total_actions": 140,
+            "unique_actions": 7,
+            "active_days": 125,
+            "avg_daily_actions": 1.12,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2023-12-19T00:00:00"
+        },
+        {
+            "user_id": "user317",
+            "total_actions": 36,
+            "unique_actions": 6,
+            "active_days": 36,
+            "avg_daily_actions": 1.0,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2021-12-05T00:00:00"
+        },
+        {
+            "user_id": "user348",
+            "total_actions": 35,
+            "unique_actions": 7,
+            "active_days": 31,
+            "avg_daily_actions": 1.1290322580645162,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2021-08-20T00:00:00"
+        },
+        {
+            "user_id": "user166",
+            "total_actions": 107,
+            "unique_actions": 7,
+            "active_days": 101,
+            "avg_daily_actions": 1.0594059405940595,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-11T00:00:00"
+        },
+        {
+            "user_id": "user73",
+            "total_actions": 330,
+            "unique_actions": 7,
+            "active_days": 269,
+            "avg_daily_actions": 1.2267657992565055,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user52",
+            "total_actions": 307,
+            "unique_actions": 7,
+            "active_days": 262,
+            "avg_daily_actions": 1.1717557251908397,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user207",
+            "total_actions": 75,
+            "unique_actions": 7,
+            "active_days": 73,
+            "avg_daily_actions": 1.0273972602739727,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user111",
+            "total_actions": 140,
+            "unique_actions": 7,
+            "active_days": 132,
+            "avg_daily_actions": 1.0606060606060606,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user132",
+            "total_actions": 153,
+            "unique_actions": 7,
+            "active_days": 141,
+            "avg_daily_actions": 1.0851063829787233,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2023-12-29T00:00:00"
+        },
+        {
+            "user_id": "user25",
+            "total_actions": 300,
+            "unique_actions": 7,
+            "active_days": 248,
+            "avg_daily_actions": 1.2096774193548387,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user26",
+            "total_actions": 312,
+            "unique_actions": 7,
+            "active_days": 264,
+            "avg_daily_actions": 1.1818181818181819,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user24",
+            "total_actions": 317,
+            "unique_actions": 7,
+            "active_days": 254,
+            "avg_daily_actions": 1.2480314960629921,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user200",
+            "total_actions": 110,
+            "unique_actions": 7,
+            "active_days": 105,
+            "avg_daily_actions": 1.0476190476190477,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user30",
+            "total_actions": 320,
+            "unique_actions": 7,
+            "active_days": 260,
+            "avg_daily_actions": 1.2307692307692308,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user294",
+            "total_actions": 105,
+            "unique_actions": 7,
+            "active_days": 99,
+            "avg_daily_actions": 1.0606060606060606,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-12T00:00:00"
+        },
+        {
+            "user_id": "user118",
+            "total_actions": 133,
+            "unique_actions": 7,
+            "active_days": 124,
+            "avg_daily_actions": 1.0725806451612903,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user247",
+            "total_actions": 92,
+            "unique_actions": 7,
+            "active_days": 87,
+            "avg_daily_actions": 1.0574712643678161,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-25T00:00:00"
+        },
+        {
+            "user_id": "user14",
+            "total_actions": 284,
+            "unique_actions": 7,
+            "active_days": 251,
+            "avg_daily_actions": 1.1314741035856575,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user258",
+            "total_actions": 106,
+            "unique_actions": 7,
+            "active_days": 98,
+            "avg_daily_actions": 1.0816326530612246,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-21T00:00:00"
+        },
+        {
+            "user_id": "user168",
+            "total_actions": 88,
+            "unique_actions": 7,
+            "active_days": 87,
+            "avg_daily_actions": 1.0114942528735633,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-18T00:00:00"
+        },
+        {
+            "user_id": "user38",
+            "total_actions": 316,
+            "unique_actions": 7,
+            "active_days": 260,
+            "avg_daily_actions": 1.2153846153846153,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user196",
+            "total_actions": 110,
+            "unique_actions": 7,
+            "active_days": 100,
+            "avg_daily_actions": 1.1,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-03T00:00:00"
+        },
+        {
+            "user_id": "user190",
+            "total_actions": 73,
+            "unique_actions": 7,
+            "active_days": 71,
+            "avg_daily_actions": 1.028169014084507,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user279",
+            "total_actions": 87,
+            "unique_actions": 7,
+            "active_days": 86,
+            "avg_daily_actions": 1.0116279069767442,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-03T00:00:00"
+        },
+        {
+            "user_id": "user81",
+            "total_actions": 314,
+            "unique_actions": 7,
+            "active_days": 267,
+            "avg_daily_actions": 1.1760299625468165,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user68",
+            "total_actions": 346,
+            "unique_actions": 7,
+            "active_days": 288,
+            "avg_daily_actions": 1.2013888888888888,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user16",
+            "total_actions": 307,
+            "unique_actions": 7,
+            "active_days": 255,
+            "avg_daily_actions": 1.203921568627451,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user33",
+            "total_actions": 325,
+            "unique_actions": 7,
+            "active_days": 277,
+            "avg_daily_actions": 1.1732851985559567,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user124",
+            "total_actions": 106,
+            "unique_actions": 7,
+            "active_days": 99,
+            "avg_daily_actions": 1.0707070707070707,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user32",
+            "total_actions": 331,
+            "unique_actions": 7,
+            "active_days": 272,
+            "avg_daily_actions": 1.2169117647058822,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user46",
+            "total_actions": 316,
+            "unique_actions": 7,
+            "active_days": 257,
+            "avg_daily_actions": 1.2295719844357977,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user248",
+            "total_actions": 108,
+            "unique_actions": 7,
+            "active_days": 100,
+            "avg_daily_actions": 1.08,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-03T00:00:00"
+        },
+        {
+            "user_id": "user243",
+            "total_actions": 84,
+            "unique_actions": 7,
+            "active_days": 79,
+            "avg_daily_actions": 1.0632911392405062,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-22T00:00:00"
+        },
+        {
+            "user_id": "user21",
+            "total_actions": 297,
+            "unique_actions": 7,
+            "active_days": 247,
+            "avg_daily_actions": 1.2024291497975708,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user17",
+            "total_actions": 332,
+            "unique_actions": 7,
+            "active_days": 281,
+            "avg_daily_actions": 1.1814946619217082,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user265",
+            "total_actions": 114,
+            "unique_actions": 7,
+            "active_days": 109,
+            "avg_daily_actions": 1.0458715596330275,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-15T00:00:00"
+        },
+        {
+            "user_id": "user35",
+            "total_actions": 327,
+            "unique_actions": 7,
+            "active_days": 261,
+            "avg_daily_actions": 1.2528735632183907,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user194",
+            "total_actions": 100,
+            "unique_actions": 7,
+            "active_days": 94,
+            "avg_daily_actions": 1.0638297872340425,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user178",
+            "total_actions": 105,
+            "unique_actions": 7,
+            "active_days": 99,
+            "avg_daily_actions": 1.0606060606060606,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2023-11-22T00:00:00"
+        },
+        {
+            "user_id": "user80",
+            "total_actions": 294,
+            "unique_actions": 7,
+            "active_days": 239,
+            "avg_daily_actions": 1.2301255230125523,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user176",
+            "total_actions": 105,
+            "unique_actions": 7,
+            "active_days": 101,
+            "avg_daily_actions": 1.0396039603960396,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2023-12-30T00:00:00"
+        },
+        {
+            "user_id": "user165",
+            "total_actions": 97,
+            "unique_actions": 7,
+            "active_days": 88,
+            "avg_daily_actions": 1.1022727272727273,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user158",
+            "total_actions": 106,
+            "unique_actions": 7,
+            "active_days": 100,
+            "avg_daily_actions": 1.06,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-11T00:00:00"
+        },
+        {
+            "user_id": "user31",
+            "total_actions": 307,
+            "unique_actions": 7,
+            "active_days": 261,
+            "avg_daily_actions": 1.1762452107279693,
+            "first_action": "2021-01-02T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user54",
+            "total_actions": 293,
+            "unique_actions": 7,
+            "active_days": 239,
+            "avg_daily_actions": 1.2259414225941423,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user99",
+            "total_actions": 328,
+            "unique_actions": 7,
+            "active_days": 278,
+            "avg_daily_actions": 1.1798561151079137,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user48",
+            "total_actions": 342,
+            "unique_actions": 7,
+            "active_days": 262,
+            "avg_daily_actions": 1.3053435114503817,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user320",
+            "total_actions": 23,
+            "unique_actions": 7,
+            "active_days": 23,
+            "avg_daily_actions": 1.0,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2021-09-02T00:00:00"
+        },
+        {
+            "user_id": "user169",
+            "total_actions": 89,
+            "unique_actions": 7,
+            "active_days": 84,
+            "avg_daily_actions": 1.0595238095238095,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-13T00:00:00"
+        },
+        {
+            "user_id": "user5",
+            "total_actions": 313,
+            "unique_actions": 7,
+            "active_days": 249,
+            "avg_daily_actions": 1.2570281124497993,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user92",
+            "total_actions": 329,
+            "unique_actions": 7,
+            "active_days": 270,
+            "avg_daily_actions": 1.2185185185185186,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user170",
+            "total_actions": 89,
+            "unique_actions": 7,
+            "active_days": 86,
+            "avg_daily_actions": 1.0348837209302326,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2023-11-27T00:00:00"
+        },
+        {
+            "user_id": "user98",
+            "total_actions": 341,
+            "unique_actions": 7,
+            "active_days": 279,
+            "avg_daily_actions": 1.2222222222222223,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user267",
+            "total_actions": 86,
+            "unique_actions": 7,
+            "active_days": 83,
+            "avg_daily_actions": 1.036144578313253,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user240",
+            "total_actions": 97,
+            "unique_actions": 7,
+            "active_days": 89,
+            "avg_daily_actions": 1.0898876404494382,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2023-12-22T00:00:00"
+        },
+        {
+            "user_id": "user4",
+            "total_actions": 310,
+            "unique_actions": 7,
+            "active_days": 262,
+            "avg_daily_actions": 1.183206106870229,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user19",
+            "total_actions": 306,
+            "unique_actions": 7,
+            "active_days": 255,
+            "avg_daily_actions": 1.2,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user102",
+            "total_actions": 133,
+            "unique_actions": 7,
+            "active_days": 110,
+            "avg_daily_actions": 1.209090909090909,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user114",
+            "total_actions": 130,
+            "unique_actions": 7,
+            "active_days": 117,
+            "avg_daily_actions": 1.1111111111111112,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-18T00:00:00"
+        },
+        {
+            "user_id": "user343",
+            "total_actions": 35,
+            "unique_actions": 7,
+            "active_days": 33,
+            "avg_daily_actions": 1.0606060606060606,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2021-10-18T00:00:00"
+        },
+        {
+            "user_id": "user345",
+            "total_actions": 26,
+            "unique_actions": 7,
+            "active_days": 25,
+            "avg_daily_actions": 1.04,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2021-10-11T00:00:00"
+        },
+        {
+            "user_id": "user126",
+            "total_actions": 123,
+            "unique_actions": 7,
+            "active_days": 108,
+            "avg_daily_actions": 1.1388888888888888,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user61",
+            "total_actions": 292,
+            "unique_actions": 7,
+            "active_days": 242,
+            "avg_daily_actions": 1.2066115702479339,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user179",
+            "total_actions": 97,
+            "unique_actions": 7,
+            "active_days": 89,
+            "avg_daily_actions": 1.0898876404494382,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user53",
+            "total_actions": 306,
+            "unique_actions": 7,
+            "active_days": 253,
+            "avg_daily_actions": 1.209486166007905,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user202",
+            "total_actions": 109,
+            "unique_actions": 7,
+            "active_days": 103,
+            "avg_daily_actions": 1.058252427184466,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-21T00:00:00"
+        },
+        {
+            "user_id": "user116",
+            "total_actions": 158,
+            "unique_actions": 7,
+            "active_days": 136,
+            "avg_daily_actions": 1.161764705882353,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-17T00:00:00"
+        },
+        {
+            "user_id": "user71",
+            "total_actions": 296,
+            "unique_actions": 7,
+            "active_days": 249,
+            "avg_daily_actions": 1.1887550200803212,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user8",
+            "total_actions": 327,
+            "unique_actions": 7,
+            "active_days": 267,
+            "avg_daily_actions": 1.2247191011235956,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user104",
+            "total_actions": 163,
+            "unique_actions": 7,
+            "active_days": 144,
+            "avg_daily_actions": 1.1319444444444444,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2023-12-27T00:00:00"
+        },
+        {
+            "user_id": "user187",
+            "total_actions": 81,
+            "unique_actions": 7,
+            "active_days": 79,
+            "avg_daily_actions": 1.0253164556962024,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2023-12-01T00:00:00"
+        },
+        {
+            "user_id": "user77",
+            "total_actions": 320,
+            "unique_actions": 7,
+            "active_days": 270,
+            "avg_daily_actions": 1.1851851851851851,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user87",
+            "total_actions": 299,
+            "unique_actions": 7,
+            "active_days": 248,
+            "avg_daily_actions": 1.2056451612903225,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user157",
+            "total_actions": 88,
+            "unique_actions": 7,
+            "active_days": 84,
+            "avg_daily_actions": 1.0476190476190477,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user241",
+            "total_actions": 87,
+            "unique_actions": 7,
+            "active_days": 82,
+            "avg_daily_actions": 1.0609756097560976,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-15T00:00:00"
+        },
+        {
+            "user_id": "user29",
+            "total_actions": 315,
+            "unique_actions": 7,
+            "active_days": 259,
+            "avg_daily_actions": 1.2162162162162162,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user254",
+            "total_actions": 107,
+            "unique_actions": 7,
+            "active_days": 103,
+            "avg_daily_actions": 1.0388349514563107,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-03T00:00:00"
+        },
+        {
+            "user_id": "user261",
+            "total_actions": 102,
+            "unique_actions": 7,
+            "active_days": 92,
+            "avg_daily_actions": 1.108695652173913,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user12",
+            "total_actions": 293,
+            "unique_actions": 7,
+            "active_days": 247,
+            "avg_daily_actions": 1.1862348178137652,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-25T00:00:00"
+        },
+        {
+            "user_id": "user272",
+            "total_actions": 103,
+            "unique_actions": 7,
+            "active_days": 94,
+            "avg_daily_actions": 1.0957446808510638,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user67",
+            "total_actions": 326,
+            "unique_actions": 7,
+            "active_days": 265,
+            "avg_daily_actions": 1.230188679245283,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user1",
+            "total_actions": 332,
+            "unique_actions": 7,
+            "active_days": 267,
+            "avg_daily_actions": 1.243445692883895,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user159",
+            "total_actions": 87,
+            "unique_actions": 7,
+            "active_days": 85,
+            "avg_daily_actions": 1.0235294117647058,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user141",
+            "total_actions": 151,
+            "unique_actions": 7,
+            "active_days": 134,
+            "avg_daily_actions": 1.126865671641791,
+            "first_action": "2021-01-03T00:00:00",
+            "last_action": "2024-01-08T00:00:00"
+        },
+        {
+            "user_id": "user112",
+            "total_actions": 152,
+            "unique_actions": 7,
+            "active_days": 137,
+            "avg_daily_actions": 1.1094890510948905,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-13T00:00:00"
+        },
+        {
+            "user_id": "user85",
+            "total_actions": 333,
+            "unique_actions": 7,
+            "active_days": 277,
+            "avg_daily_actions": 1.2021660649819494,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user210",
+            "total_actions": 98,
+            "unique_actions": 7,
+            "active_days": 92,
+            "avg_daily_actions": 1.065217391304348,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2023-12-29T00:00:00"
+        },
+        {
+            "user_id": "user234",
+            "total_actions": 95,
+            "unique_actions": 7,
+            "active_days": 91,
+            "avg_daily_actions": 1.043956043956044,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-19T00:00:00"
+        },
+        {
+            "user_id": "user156",
+            "total_actions": 79,
+            "unique_actions": 7,
+            "active_days": 78,
+            "avg_daily_actions": 1.0128205128205128,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-16T00:00:00"
+        },
+        {
+            "user_id": "user344",
+            "total_actions": 37,
+            "unique_actions": 7,
+            "active_days": 34,
+            "avg_daily_actions": 1.088235294117647,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2021-07-06T00:00:00"
+        },
+        {
+            "user_id": "user195",
+            "total_actions": 110,
+            "unique_actions": 7,
+            "active_days": 105,
+            "avg_daily_actions": 1.0476190476190477,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-20T00:00:00"
+        },
+        {
+            "user_id": "user149",
+            "total_actions": 141,
+            "unique_actions": 7,
+            "active_days": 115,
+            "avg_daily_actions": 1.2260869565217392,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-22T00:00:00"
+        },
+        {
+            "user_id": "user36",
+            "total_actions": 291,
+            "unique_actions": 7,
+            "active_days": 239,
+            "avg_daily_actions": 1.217573221757322,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user100",
+            "total_actions": 309,
+            "unique_actions": 7,
+            "active_days": 260,
+            "avg_daily_actions": 1.1884615384615385,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user137",
+            "total_actions": 135,
+            "unique_actions": 7,
+            "active_days": 120,
+            "avg_daily_actions": 1.125,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-19T00:00:00"
+        },
+        {
+            "user_id": "user216",
+            "total_actions": 89,
+            "unique_actions": 7,
+            "active_days": 85,
+            "avg_daily_actions": 1.0470588235294118,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user224",
+            "total_actions": 85,
+            "unique_actions": 7,
+            "active_days": 80,
+            "avg_daily_actions": 1.0625,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user239",
+            "total_actions": 100,
+            "unique_actions": 7,
+            "active_days": 94,
+            "avg_daily_actions": 1.0638297872340425,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-20T00:00:00"
+        },
+        {
+            "user_id": "user51",
+            "total_actions": 278,
+            "unique_actions": 7,
+            "active_days": 242,
+            "avg_daily_actions": 1.1487603305785123,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user269",
+            "total_actions": 95,
+            "unique_actions": 7,
+            "active_days": 87,
+            "avg_daily_actions": 1.0919540229885059,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-18T00:00:00"
+        },
+        {
+            "user_id": "user103",
+            "total_actions": 110,
+            "unique_actions": 7,
+            "active_days": 97,
+            "avg_daily_actions": 1.134020618556701,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user229",
+            "total_actions": 75,
+            "unique_actions": 7,
+            "active_days": 72,
+            "avg_daily_actions": 1.0416666666666667,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2023-12-08T00:00:00"
+        },
+        {
+            "user_id": "user57",
+            "total_actions": 271,
+            "unique_actions": 7,
+            "active_days": 229,
+            "avg_daily_actions": 1.1834061135371179,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user281",
+            "total_actions": 107,
+            "unique_actions": 7,
+            "active_days": 101,
+            "avg_daily_actions": 1.0594059405940595,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user331",
+            "total_actions": 20,
+            "unique_actions": 6,
+            "active_days": 19,
+            "avg_daily_actions": 1.0526315789473684,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2021-07-17T00:00:00"
+        },
+        {
+            "user_id": "user324",
+            "total_actions": 28,
+            "unique_actions": 6,
+            "active_days": 25,
+            "avg_daily_actions": 1.12,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2021-06-15T00:00:00"
+        },
+        {
+            "user_id": "user339",
+            "total_actions": 22,
+            "unique_actions": 6,
+            "active_days": 21,
+            "avg_daily_actions": 1.0476190476190477,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2021-10-09T00:00:00"
+        },
+        {
+            "user_id": "user105",
+            "total_actions": 111,
+            "unique_actions": 7,
+            "active_days": 97,
+            "avg_daily_actions": 1.1443298969072164,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2023-12-07T00:00:00"
+        },
+        {
+            "user_id": "user282",
+            "total_actions": 113,
+            "unique_actions": 7,
+            "active_days": 107,
+            "avg_daily_actions": 1.0560747663551402,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-06T00:00:00"
+        },
+        {
+            "user_id": "user217",
+            "total_actions": 99,
+            "unique_actions": 7,
+            "active_days": 91,
+            "avg_daily_actions": 1.0879120879120878,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user148",
+            "total_actions": 112,
+            "unique_actions": 7,
+            "active_days": 103,
+            "avg_daily_actions": 1.087378640776699,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-10T00:00:00"
+        },
+        {
+            "user_id": "user89",
+            "total_actions": 308,
+            "unique_actions": 7,
+            "active_days": 252,
+            "avg_daily_actions": 1.2222222222222223,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user117",
+            "total_actions": 137,
+            "unique_actions": 7,
+            "active_days": 118,
+            "avg_daily_actions": 1.1610169491525424,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-19T00:00:00"
+        },
+        {
+            "user_id": "user341",
+            "total_actions": 30,
+            "unique_actions": 7,
+            "active_days": 26,
+            "avg_daily_actions": 1.1538461538461537,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2021-06-18T00:00:00"
+        },
+        {
+            "user_id": "user70",
+            "total_actions": 304,
+            "unique_actions": 7,
+            "active_days": 264,
+            "avg_daily_actions": 1.1515151515151516,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user213",
+            "total_actions": 91,
+            "unique_actions": 7,
+            "active_days": 87,
+            "avg_daily_actions": 1.0459770114942528,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user260",
+            "total_actions": 88,
+            "unique_actions": 7,
+            "active_days": 85,
+            "avg_daily_actions": 1.035294117647059,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2024-01-20T00:00:00"
+        },
+        {
+            "user_id": "user318",
+            "total_actions": 24,
+            "unique_actions": 7,
+            "active_days": 22,
+            "avg_daily_actions": 1.0909090909090908,
+            "first_action": "2021-01-04T00:00:00",
+            "last_action": "2021-08-31T00:00:00"
+        },
+        {
+            "user_id": "user306",
+            "total_actions": 28,
+            "unique_actions": 7,
+            "active_days": 26,
+            "avg_daily_actions": 1.0769230769230769,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2021-08-01T00:00:00"
+        },
+        {
+            "user_id": "user212",
+            "total_actions": 113,
+            "unique_actions": 7,
+            "active_days": 106,
+            "avg_daily_actions": 1.0660377358490567,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-21T00:00:00"
+        },
+        {
+            "user_id": "user76",
+            "total_actions": 287,
+            "unique_actions": 7,
+            "active_days": 245,
+            "avg_daily_actions": 1.1714285714285715,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user252",
+            "total_actions": 89,
+            "unique_actions": 7,
+            "active_days": 87,
+            "avg_daily_actions": 1.0229885057471264,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user307",
+            "total_actions": 21,
+            "unique_actions": 6,
+            "active_days": 20,
+            "avg_daily_actions": 1.05,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2021-10-19T00:00:00"
+        },
+        {
+            "user_id": "user20",
+            "total_actions": 280,
+            "unique_actions": 7,
+            "active_days": 240,
+            "avg_daily_actions": 1.1666666666666667,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user249",
+            "total_actions": 88,
+            "unique_actions": 7,
+            "active_days": 84,
+            "avg_daily_actions": 1.0476190476190477,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user215",
+            "total_actions": 95,
+            "unique_actions": 7,
+            "active_days": 89,
+            "avg_daily_actions": 1.0674157303370786,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user289",
+            "total_actions": 79,
+            "unique_actions": 7,
+            "active_days": 78,
+            "avg_daily_actions": 1.0128205128205128,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-11T00:00:00"
+        },
+        {
+            "user_id": "user333",
+            "total_actions": 39,
+            "unique_actions": 7,
+            "active_days": 36,
+            "avg_daily_actions": 1.0833333333333333,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2021-09-11T00:00:00"
+        },
+        {
+            "user_id": "user301",
+            "total_actions": 40,
+            "unique_actions": 7,
+            "active_days": 34,
+            "avg_daily_actions": 1.1764705882352942,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2021-10-09T00:00:00"
+        },
+        {
+            "user_id": "user162",
+            "total_actions": 85,
+            "unique_actions": 7,
+            "active_days": 80,
+            "avg_daily_actions": 1.0625,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2023-12-09T00:00:00"
+        },
+        {
+            "user_id": "user347",
+            "total_actions": 33,
+            "unique_actions": 7,
+            "active_days": 29,
+            "avg_daily_actions": 1.1379310344827587,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2021-07-31T00:00:00"
+        },
+        {
+            "user_id": "user277",
+            "total_actions": 91,
+            "unique_actions": 7,
+            "active_days": 90,
+            "avg_daily_actions": 1.011111111111111,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2023-12-23T00:00:00"
+        },
+        {
+            "user_id": "user43",
+            "total_actions": 295,
+            "unique_actions": 7,
+            "active_days": 250,
+            "avg_daily_actions": 1.18,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user330",
+            "total_actions": 39,
+            "unique_actions": 6,
+            "active_days": 36,
+            "avg_daily_actions": 1.0833333333333333,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2021-09-29T00:00:00"
+        },
+        {
+            "user_id": "user183",
+            "total_actions": 77,
+            "unique_actions": 7,
+            "active_days": 70,
+            "avg_daily_actions": 1.1,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user278",
+            "total_actions": 111,
+            "unique_actions": 7,
+            "active_days": 102,
+            "avg_daily_actions": 1.088235294117647,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-02T00:00:00"
+        },
+        {
+            "user_id": "user121",
+            "total_actions": 133,
+            "unique_actions": 7,
+            "active_days": 123,
+            "avg_daily_actions": 1.08130081300813,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-21T00:00:00"
+        },
+        {
+            "user_id": "user218",
+            "total_actions": 100,
+            "unique_actions": 7,
+            "active_days": 96,
+            "avg_daily_actions": 1.0416666666666667,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user303",
+            "total_actions": 27,
+            "unique_actions": 7,
+            "active_days": 26,
+            "avg_daily_actions": 1.0384615384615385,
+            "first_action": "2021-01-05T00:00:00",
+            "last_action": "2021-09-05T00:00:00"
+        },
+        {
+            "user_id": "user125",
+            "total_actions": 134,
+            "unique_actions": 7,
+            "active_days": 119,
+            "avg_daily_actions": 1.1260504201680672,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2023-12-18T00:00:00"
+        },
+        {
+            "user_id": "user335",
+            "total_actions": 33,
+            "unique_actions": 7,
+            "active_days": 32,
+            "avg_daily_actions": 1.03125,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2021-09-25T00:00:00"
+        },
+        {
+            "user_id": "user107",
+            "total_actions": 136,
+            "unique_actions": 7,
+            "active_days": 127,
+            "avg_daily_actions": 1.0708661417322836,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-22T00:00:00"
+        },
+        {
+            "user_id": "user23",
+            "total_actions": 282,
+            "unique_actions": 7,
+            "active_days": 231,
+            "avg_daily_actions": 1.2207792207792207,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user37",
+            "total_actions": 327,
+            "unique_actions": 7,
+            "active_days": 262,
+            "avg_daily_actions": 1.248091603053435,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user297",
+            "total_actions": 112,
+            "unique_actions": 7,
+            "active_days": 108,
+            "avg_daily_actions": 1.037037037037037,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user174",
+            "total_actions": 91,
+            "unique_actions": 7,
+            "active_days": 87,
+            "avg_daily_actions": 1.0459770114942528,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2023-12-20T00:00:00"
+        },
+        {
+            "user_id": "user350",
+            "total_actions": 23,
+            "unique_actions": 6,
+            "active_days": 22,
+            "avg_daily_actions": 1.0454545454545454,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2021-11-23T00:00:00"
+        },
+        {
+            "user_id": "user47",
+            "total_actions": 305,
+            "unique_actions": 7,
+            "active_days": 249,
+            "avg_daily_actions": 1.2248995983935742,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user219",
+            "total_actions": 101,
+            "unique_actions": 7,
+            "active_days": 98,
+            "avg_daily_actions": 1.030612244897959,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-09T00:00:00"
+        },
+        {
+            "user_id": "user139",
+            "total_actions": 147,
+            "unique_actions": 7,
+            "active_days": 126,
+            "avg_daily_actions": 1.1666666666666667,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-10T00:00:00"
+        },
+        {
+            "user_id": "user276",
+            "total_actions": 104,
+            "unique_actions": 7,
+            "active_days": 99,
+            "avg_daily_actions": 1.0505050505050506,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2023-12-30T00:00:00"
+        },
+        {
+            "user_id": "user275",
+            "total_actions": 86,
+            "unique_actions": 7,
+            "active_days": 83,
+            "avg_daily_actions": 1.036144578313253,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user146",
+            "total_actions": 146,
+            "unique_actions": 7,
+            "active_days": 122,
+            "avg_daily_actions": 1.1967213114754098,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-09T00:00:00"
+        },
+        {
+            "user_id": "user273",
+            "total_actions": 105,
+            "unique_actions": 7,
+            "active_days": 95,
+            "avg_daily_actions": 1.105263157894737,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-25T00:00:00"
+        },
+        {
+            "user_id": "user184",
+            "total_actions": 85,
+            "unique_actions": 7,
+            "active_days": 80,
+            "avg_daily_actions": 1.0625,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user233",
+            "total_actions": 85,
+            "unique_actions": 7,
+            "active_days": 82,
+            "avg_daily_actions": 1.0365853658536586,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user192",
+            "total_actions": 98,
+            "unique_actions": 7,
+            "active_days": 90,
+            "avg_daily_actions": 1.0888888888888888,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user308",
+            "total_actions": 29,
+            "unique_actions": 7,
+            "active_days": 25,
+            "avg_daily_actions": 1.16,
+            "first_action": "2021-01-06T00:00:00",
+            "last_action": "2021-07-08T00:00:00"
+        },
+        {
+            "user_id": "user173",
+            "total_actions": 90,
+            "unique_actions": 7,
+            "active_days": 85,
+            "avg_daily_actions": 1.0588235294117647,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-24T00:00:00"
+        },
+        {
+            "user_id": "user131",
+            "total_actions": 129,
+            "unique_actions": 7,
+            "active_days": 116,
+            "avg_daily_actions": 1.1120689655172413,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2023-12-13T00:00:00"
+        },
+        {
+            "user_id": "user177",
+            "total_actions": 102,
+            "unique_actions": 7,
+            "active_days": 94,
+            "avg_daily_actions": 1.0851063829787233,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user74",
+            "total_actions": 317,
+            "unique_actions": 7,
+            "active_days": 266,
+            "avg_daily_actions": 1.1917293233082706,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user266",
+            "total_actions": 96,
+            "unique_actions": 7,
+            "active_days": 94,
+            "avg_daily_actions": 1.0212765957446808,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-18T00:00:00"
+        },
+        {
+            "user_id": "user309",
+            "total_actions": 38,
+            "unique_actions": 7,
+            "active_days": 34,
+            "avg_daily_actions": 1.1176470588235294,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2021-10-03T00:00:00"
+        },
+        {
+            "user_id": "user245",
+            "total_actions": 96,
+            "unique_actions": 7,
+            "active_days": 91,
+            "avg_daily_actions": 1.054945054945055,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-14T00:00:00"
+        },
+        {
+            "user_id": "user3",
+            "total_actions": 300,
+            "unique_actions": 7,
+            "active_days": 261,
+            "avg_daily_actions": 1.1494252873563218,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-25T00:00:00"
+        },
+        {
+            "user_id": "user250",
+            "total_actions": 95,
+            "unique_actions": 7,
+            "active_days": 89,
+            "avg_daily_actions": 1.0674157303370786,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2023-12-26T00:00:00"
+        },
+        {
+            "user_id": "user337",
+            "total_actions": 35,
+            "unique_actions": 7,
+            "active_days": 31,
+            "avg_daily_actions": 1.1290322580645162,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2021-12-16T00:00:00"
+        },
+        {
+            "user_id": "user86",
+            "total_actions": 313,
+            "unique_actions": 7,
+            "active_days": 259,
+            "avg_daily_actions": 1.2084942084942085,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user2",
+            "total_actions": 337,
+            "unique_actions": 7,
+            "active_days": 281,
+            "avg_daily_actions": 1.199288256227758,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user144",
+            "total_actions": 121,
+            "unique_actions": 7,
+            "active_days": 105,
+            "avg_daily_actions": 1.1523809523809523,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-25T00:00:00"
+        },
+        {
+            "user_id": "user120",
+            "total_actions": 143,
+            "unique_actions": 7,
+            "active_days": 132,
+            "avg_daily_actions": 1.0833333333333333,
+            "first_action": "2021-01-07T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user209",
+            "total_actions": 111,
+            "unique_actions": 7,
+            "active_days": 102,
+            "avg_daily_actions": 1.088235294117647,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2023-12-23T00:00:00"
+        },
+        {
+            "user_id": "user205",
+            "total_actions": 77,
+            "unique_actions": 7,
+            "active_days": 75,
+            "avg_daily_actions": 1.0266666666666666,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user206",
+            "total_actions": 87,
+            "unique_actions": 7,
+            "active_days": 84,
+            "avg_daily_actions": 1.0357142857142858,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user280",
+            "total_actions": 113,
+            "unique_actions": 7,
+            "active_days": 101,
+            "avg_daily_actions": 1.118811881188119,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2024-01-22T00:00:00"
+        },
+        {
+            "user_id": "user231",
+            "total_actions": 89,
+            "unique_actions": 7,
+            "active_days": 88,
+            "avg_daily_actions": 1.0113636363636365,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user163",
+            "total_actions": 115,
+            "unique_actions": 7,
+            "active_days": 108,
+            "avg_daily_actions": 1.0648148148148149,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user304",
+            "total_actions": 22,
+            "unique_actions": 6,
+            "active_days": 21,
+            "avg_daily_actions": 1.0476190476190477,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2021-08-26T00:00:00"
+        },
+        {
+            "user_id": "user171",
+            "total_actions": 90,
+            "unique_actions": 7,
+            "active_days": 82,
+            "avg_daily_actions": 1.0975609756097562,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2024-01-16T00:00:00"
+        },
+        {
+            "user_id": "user311",
+            "total_actions": 38,
+            "unique_actions": 7,
+            "active_days": 34,
+            "avg_daily_actions": 1.1176470588235294,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2021-11-11T00:00:00"
+        },
+        {
+            "user_id": "user172",
+            "total_actions": 88,
+            "unique_actions": 7,
+            "active_days": 84,
+            "avg_daily_actions": 1.0476190476190477,
+            "first_action": "2021-01-08T00:00:00",
+            "last_action": "2024-01-28T00:00:00"
+        },
+        {
+            "user_id": "user214",
+            "total_actions": 109,
+            "unique_actions": 7,
+            "active_days": 101,
+            "avg_daily_actions": 1.0792079207920793,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2024-01-12T00:00:00"
+        },
+        {
+            "user_id": "user236",
+            "total_actions": 109,
+            "unique_actions": 7,
+            "active_days": 100,
+            "avg_daily_actions": 1.09,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user208",
+            "total_actions": 115,
+            "unique_actions": 7,
+            "active_days": 114,
+            "avg_daily_actions": 1.0087719298245614,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user155",
+            "total_actions": 99,
+            "unique_actions": 7,
+            "active_days": 96,
+            "avg_daily_actions": 1.03125,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2024-01-13T00:00:00"
+        },
+        {
+            "user_id": "user342",
+            "total_actions": 33,
+            "unique_actions": 7,
+            "active_days": 32,
+            "avg_daily_actions": 1.03125,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2021-10-12T00:00:00"
+        },
+        {
+            "user_id": "user235",
+            "total_actions": 107,
+            "unique_actions": 7,
+            "active_days": 103,
+            "avg_daily_actions": 1.0388349514563107,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2023-12-07T00:00:00"
+        },
+        {
+            "user_id": "user237",
+            "total_actions": 95,
+            "unique_actions": 7,
+            "active_days": 89,
+            "avg_daily_actions": 1.0674157303370786,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2023-12-29T00:00:00"
+        },
+        {
+            "user_id": "user302",
+            "total_actions": 31,
+            "unique_actions": 7,
+            "active_days": 30,
+            "avg_daily_actions": 1.0333333333333334,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2021-10-02T00:00:00"
+        },
+        {
+            "user_id": "user251",
+            "total_actions": 84,
+            "unique_actions": 7,
+            "active_days": 77,
+            "avg_daily_actions": 1.0909090909090908,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2024-01-11T00:00:00"
+        },
+        {
+            "user_id": "user244",
+            "total_actions": 99,
+            "unique_actions": 7,
+            "active_days": 94,
+            "avg_daily_actions": 1.053191489361702,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2024-01-15T00:00:00"
+        },
+        {
+            "user_id": "user323",
+            "total_actions": 28,
+            "unique_actions": 7,
+            "active_days": 28,
+            "avg_daily_actions": 1.0,
+            "first_action": "2021-01-09T00:00:00",
+            "last_action": "2021-10-17T00:00:00"
+        },
+        {
+            "user_id": "user108",
+            "total_actions": 122,
+            "unique_actions": 7,
+            "active_days": 109,
+            "avg_daily_actions": 1.1192660550458715,
+            "first_action": "2021-01-10T00:00:00",
+            "last_action": "2024-01-25T00:00:00"
+        },
+        {
+            "user_id": "user259",
+            "total_actions": 91,
+            "unique_actions": 7,
+            "active_days": 88,
+            "avg_daily_actions": 1.0340909090909092,
+            "first_action": "2021-01-10T00:00:00",
+            "last_action": "2023-11-19T00:00:00"
+        },
+        {
+            "user_id": "user256",
+            "total_actions": 80,
+            "unique_actions": 7,
+            "active_days": 76,
+            "avg_daily_actions": 1.0526315789473684,
+            "first_action": "2021-01-10T00:00:00",
+            "last_action": "2024-01-02T00:00:00"
+        },
+        {
+            "user_id": "user295",
+            "total_actions": 92,
+            "unique_actions": 7,
+            "active_days": 88,
+            "avg_daily_actions": 1.0454545454545454,
+            "first_action": "2021-01-10T00:00:00",
+            "last_action": "2024-01-23T00:00:00"
+        },
+        {
+            "user_id": "user211",
+            "total_actions": 93,
+            "unique_actions": 7,
+            "active_days": 92,
+            "avg_daily_actions": 1.0108695652173914,
+            "first_action": "2021-01-10T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user193",
+            "total_actions": 96,
+            "unique_actions": 7,
+            "active_days": 93,
+            "avg_daily_actions": 1.032258064516129,
+            "first_action": "2021-01-10T00:00:00",
+            "last_action": "2023-12-23T00:00:00"
+        },
+        {
+            "user_id": "user253",
+            "total_actions": 73,
+            "unique_actions": 7,
+            "active_days": 69,
+            "avg_daily_actions": 1.0579710144927537,
+            "first_action": "2021-01-10T00:00:00",
+            "last_action": "2024-01-05T00:00:00"
+        },
+        {
+            "user_id": "user228",
+            "total_actions": 76,
+            "unique_actions": 7,
+            "active_days": 72,
+            "avg_daily_actions": 1.0555555555555556,
+            "first_action": "2021-01-10T00:00:00",
+            "last_action": "2023-12-30T00:00:00"
+        },
+        {
+            "user_id": "user268",
+            "total_actions": 107,
+            "unique_actions": 7,
+            "active_days": 105,
+            "avg_daily_actions": 1.019047619047619,
+            "first_action": "2021-01-10T00:00:00",
+            "last_action": "2024-01-06T00:00:00"
+        },
+        {
+            "user_id": "user186",
+            "total_actions": 100,
+            "unique_actions": 7,
+            "active_days": 96,
+            "avg_daily_actions": 1.0416666666666667,
+            "first_action": "2021-01-11T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user299",
+            "total_actions": 84,
+            "unique_actions": 7,
+            "active_days": 80,
+            "avg_daily_actions": 1.05,
+            "first_action": "2021-01-11T00:00:00",
+            "last_action": "2024-01-12T00:00:00"
+        },
+        {
+            "user_id": "user201",
+            "total_actions": 84,
+            "unique_actions": 7,
+            "active_days": 78,
+            "avg_daily_actions": 1.0769230769230769,
+            "first_action": "2021-01-11T00:00:00",
+            "last_action": "2023-12-29T00:00:00"
+        },
+        {
+            "user_id": "user298",
+            "total_actions": 117,
+            "unique_actions": 7,
+            "active_days": 108,
+            "avg_daily_actions": 1.0833333333333333,
+            "first_action": "2021-01-11T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user160",
+            "total_actions": 90,
+            "unique_actions": 7,
+            "active_days": 85,
+            "avg_daily_actions": 1.0588235294117647,
+            "first_action": "2021-01-12T00:00:00",
+            "last_action": "2024-01-19T00:00:00"
+        },
+        {
+            "user_id": "user321",
+            "total_actions": 21,
+            "unique_actions": 5,
+            "active_days": 20,
+            "avg_daily_actions": 1.05,
+            "first_action": "2021-01-12T00:00:00",
+            "last_action": "2021-11-06T00:00:00"
+        },
+        {
+            "user_id": "user185",
+            "total_actions": 114,
+            "unique_actions": 7,
+            "active_days": 107,
+            "avg_daily_actions": 1.0654205607476634,
+            "first_action": "2021-01-12T00:00:00",
+            "last_action": "2024-01-18T00:00:00"
+        },
+        {
+            "user_id": "user164",
+            "total_actions": 117,
+            "unique_actions": 7,
+            "active_days": 115,
+            "avg_daily_actions": 1.017391304347826,
+            "first_action": "2021-01-12T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user204",
+            "total_actions": 92,
+            "unique_actions": 7,
+            "active_days": 89,
+            "avg_daily_actions": 1.0337078651685394,
+            "first_action": "2021-01-12T00:00:00",
+            "last_action": "2024-01-10T00:00:00"
+        },
+        {
+            "user_id": "user140",
+            "total_actions": 124,
+            "unique_actions": 7,
+            "active_days": 107,
+            "avg_daily_actions": 1.158878504672897,
+            "first_action": "2021-01-12T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user221",
+            "total_actions": 88,
+            "unique_actions": 7,
+            "active_days": 85,
+            "avg_daily_actions": 1.035294117647059,
+            "first_action": "2021-01-12T00:00:00",
+            "last_action": "2023-12-25T00:00:00"
+        },
+        {
+            "user_id": "user328",
+            "total_actions": 26,
+            "unique_actions": 7,
+            "active_days": 26,
+            "avg_daily_actions": 1.0,
+            "first_action": "2021-01-12T00:00:00",
+            "last_action": "2021-12-19T00:00:00"
+        },
+        {
+            "user_id": "user286",
+            "total_actions": 73,
+            "unique_actions": 7,
+            "active_days": 73,
+            "avg_daily_actions": 1.0,
+            "first_action": "2021-01-13T00:00:00",
+            "last_action": "2024-01-26T00:00:00"
+        },
+        {
+            "user_id": "user138",
+            "total_actions": 130,
+            "unique_actions": 7,
+            "active_days": 115,
+            "avg_daily_actions": 1.1304347826086956,
+            "first_action": "2021-01-13T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user334",
+            "total_actions": 40,
+            "unique_actions": 7,
+            "active_days": 37,
+            "avg_daily_actions": 1.0810810810810811,
+            "first_action": "2021-01-13T00:00:00",
+            "last_action": "2021-08-18T00:00:00"
+        },
+        {
+            "user_id": "user262",
+            "total_actions": 78,
+            "unique_actions": 7,
+            "active_days": 76,
+            "avg_daily_actions": 1.0263157894736843,
+            "first_action": "2021-01-13T00:00:00",
+            "last_action": "2023-12-22T00:00:00"
+        },
+        {
+            "user_id": "user336",
+            "total_actions": 35,
+            "unique_actions": 7,
+            "active_days": 34,
+            "avg_daily_actions": 1.0294117647058822,
+            "first_action": "2021-01-13T00:00:00",
+            "last_action": "2021-07-04T00:00:00"
+        },
+        {
+            "user_id": "user346",
+            "total_actions": 30,
+            "unique_actions": 7,
+            "active_days": 27,
+            "avg_daily_actions": 1.1111111111111112,
+            "first_action": "2021-01-13T00:00:00",
+            "last_action": "2021-11-30T00:00:00"
+        },
+        {
+            "user_id": "user238",
+            "total_actions": 77,
+            "unique_actions": 7,
+            "active_days": 73,
+            "avg_daily_actions": 1.0547945205479452,
+            "first_action": "2021-01-13T00:00:00",
+            "last_action": "2024-01-09T00:00:00"
+        },
+        {
+            "user_id": "user197",
+            "total_actions": 104,
+            "unique_actions": 7,
+            "active_days": 96,
+            "avg_daily_actions": 1.0833333333333333,
+            "first_action": "2021-01-14T00:00:00",
+            "last_action": "2024-01-21T00:00:00"
+        },
+        {
+            "user_id": "user230",
+            "total_actions": 80,
+            "unique_actions": 7,
+            "active_days": 79,
+            "avg_daily_actions": 1.0126582278481013,
+            "first_action": "2021-01-14T00:00:00",
+            "last_action": "2023-12-28T00:00:00"
+        },
+        {
+            "user_id": "user313",
+            "total_actions": 25,
+            "unique_actions": 7,
+            "active_days": 23,
+            "avg_daily_actions": 1.0869565217391304,
+            "first_action": "2021-01-14T00:00:00",
+            "last_action": "2021-07-02T00:00:00"
+        },
+        {
+            "user_id": "user290",
+            "total_actions": 87,
+            "unique_actions": 7,
+            "active_days": 84,
+            "avg_daily_actions": 1.0357142857142858,
+            "first_action": "2021-01-15T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user315",
+            "total_actions": 24,
+            "unique_actions": 7,
+            "active_days": 23,
+            "avg_daily_actions": 1.0434782608695652,
+            "first_action": "2021-01-15T00:00:00",
+            "last_action": "2021-10-02T00:00:00"
+        },
+        {
+            "user_id": "user329",
+            "total_actions": 28,
+            "unique_actions": 7,
+            "active_days": 27,
+            "avg_daily_actions": 1.037037037037037,
+            "first_action": "2021-01-15T00:00:00",
+            "last_action": "2021-07-29T00:00:00"
+        },
+        {
+            "user_id": "user263",
+            "total_actions": 75,
+            "unique_actions": 7,
+            "active_days": 70,
+            "avg_daily_actions": 1.0714285714285714,
+            "first_action": "2021-01-15T00:00:00",
+            "last_action": "2024-01-07T00:00:00"
+        },
+        {
+            "user_id": "user270",
+            "total_actions": 83,
+            "unique_actions": 7,
+            "active_days": 76,
+            "avg_daily_actions": 1.0921052631578947,
+            "first_action": "2021-01-15T00:00:00",
+            "last_action": "2024-01-03T00:00:00"
+        },
+        {
+            "user_id": "user338",
+            "total_actions": 39,
+            "unique_actions": 7,
+            "active_days": 38,
+            "avg_daily_actions": 1.0263157894736843,
+            "first_action": "2021-01-15T00:00:00",
+            "last_action": "2021-11-02T00:00:00"
+        },
+        {
+            "user_id": "user316",
+            "total_actions": 32,
+            "unique_actions": 6,
+            "active_days": 28,
+            "avg_daily_actions": 1.1428571428571428,
+            "first_action": "2021-01-16T00:00:00",
+            "last_action": "2021-09-21T00:00:00"
+        },
+        {
+            "user_id": "user340",
+            "total_actions": 37,
+            "unique_actions": 7,
+            "active_days": 32,
+            "avg_daily_actions": 1.15625,
+            "first_action": "2021-01-16T00:00:00",
+            "last_action": "2021-11-11T00:00:00"
+        },
+        {
+            "user_id": "user326",
+            "total_actions": 38,
+            "unique_actions": 7,
+            "active_days": 35,
+            "avg_daily_actions": 1.0857142857142856,
+            "first_action": "2021-01-16T00:00:00",
+            "last_action": "2021-09-17T00:00:00"
+        },
+        {
+            "user_id": "user203",
+            "total_actions": 88,
+            "unique_actions": 7,
+            "active_days": 83,
+            "avg_daily_actions": 1.0602409638554218,
+            "first_action": "2021-01-17T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user180",
+            "total_actions": 85,
+            "unique_actions": 7,
+            "active_days": 82,
+            "avg_daily_actions": 1.0365853658536586,
+            "first_action": "2021-01-17T00:00:00",
+            "last_action": "2024-01-27T00:00:00"
+        },
+        {
+            "user_id": "user255",
+            "total_actions": 92,
+            "unique_actions": 7,
+            "active_days": 87,
+            "avg_daily_actions": 1.0574712643678161,
+            "first_action": "2021-01-18T00:00:00",
+            "last_action": "2023-12-29T00:00:00"
+        },
+        {
+            "user_id": "user291",
+            "total_actions": 77,
+            "unique_actions": 7,
+            "active_days": 74,
+            "avg_daily_actions": 1.0405405405405406,
+            "first_action": "2021-01-19T00:00:00",
+            "last_action": "2023-12-24T00:00:00"
+        },
+        {
+            "user_id": "user300",
+            "total_actions": 87,
+            "unique_actions": 7,
+            "active_days": 79,
+            "avg_daily_actions": 1.1012658227848102,
+            "first_action": "2021-01-19T00:00:00",
+            "last_action": "2023-12-21T00:00:00"
+        },
+        {
+            "user_id": "user246",
+            "total_actions": 99,
+            "unique_actions": 7,
+            "active_days": 96,
+            "avg_daily_actions": 1.03125,
+            "first_action": "2021-01-19T00:00:00",
+            "last_action": "2023-12-14T00:00:00"
+        },
+        {
+            "user_id": "user220",
+            "total_actions": 79,
+            "unique_actions": 7,
+            "active_days": 74,
+            "avg_daily_actions": 1.0675675675675675,
+            "first_action": "2021-01-20T00:00:00",
+            "last_action": "2024-01-25T00:00:00"
+        },
+        {
+            "user_id": "user227",
+            "total_actions": 102,
+            "unique_actions": 7,
+            "active_days": 96,
+            "avg_daily_actions": 1.0625,
+            "first_action": "2021-01-21T00:00:00",
+            "last_action": "2024-01-29T00:00:00"
+        },
+        {
+            "user_id": "user151",
+            "total_actions": 100,
+            "unique_actions": 7,
+            "active_days": 95,
+            "avg_daily_actions": 1.0526315789473684,
+            "first_action": "2021-01-21T00:00:00",
+            "last_action": "2024-01-30T00:00:00"
+        },
+        {
+            "user_id": "user226",
+            "total_actions": 71,
+            "unique_actions": 7,
+            "active_days": 67,
+            "avg_daily_actions": 1.0597014925373134,
+            "first_action": "2021-01-23T00:00:00",
+            "last_action": "2024-01-31T00:00:00"
+        },
+        {
+            "user_id": "user327",
+            "total_actions": 33,
+            "unique_actions": 7,
+            "active_days": 31,
+            "avg_daily_actions": 1.064516129032258,
+            "first_action": "2021-01-26T00:00:00",
+            "last_action": "2021-08-20T00:00:00"
+        },
+        {
+            "user_id": "user310",
+            "total_actions": 21,
+            "unique_actions": 6,
+            "active_days": 21,
+            "avg_daily_actions": 1.0,
+            "first_action": "2021-02-05T00:00:00",
+            "last_action": "2021-10-20T00:00:00"
+        },
+        {
+            "user_id": "user305",
+            "total_actions": 24,
+            "unique_actions": 7,
+            "active_days": 20,
+            "avg_daily_actions": 1.2,
+            "first_action": "2021-02-13T00:00:00",
+            "last_action": "2021-08-23T00:00:00"
+        },
+        {
+            "user_id": "user319",
+            "total_actions": 38,
+            "unique_actions": 7,
+            "active_days": 36,
+            "avg_daily_actions": 1.0555555555555556,
+            "first_action": "2021-03-08T00:00:00",
+            "last_action": "2021-09-08T00:00:00"
+        }
+    ],
+    "user_segments": [
+        {
+            "cluster_id": "cluster_0",
+            "users": [
+                "user129",
+                "user150",
+                "user257",
+                "user113",
+                "user127",
+                "user332",
+                "user128",
+                "user130",
+                "user136",
+                "user134",
+                "user167",
+                "user133",
+                "user101",
+                "user225",
+                "user349",
+                "user106",
+                "user271",
+                "user232",
+                "user115",
+                "user110",
+                "user242",
+                "user109",
+                "user283",
+                "user284",
+                "user122",
+                "user293",
+                "user152",
+                "user264",
+                "user135",
+                "user288",
+                "user287",
+                "user285",
+                "user175",
+                "user191",
+                "user143",
+                "user188",
+                "user274",
+                "user314",
+                "user181",
+                "user142",
+                "user189",
+                "user222",
+                "user161",
+                "user199",
+                "user292",
+                "user223",
+                "user153",
+                "user123",
+                "user182",
+                "user296",
+                "user154",
+                "user145",
+                "user119",
+                "user198",
+                "user147",
+                "user348",
+                "user166",
+                "user207",
+                "user111",
+                "user132",
+                "user200",
+                "user294",
+                "user118",
+                "user247",
+                "user258",
+                "user168",
+                "user196",
+                "user190",
+                "user279",
+                "user124",
+                "user248",
+                "user243",
+                "user265",
+                "user194",
+                "user178",
+                "user176",
+                "user165",
+                "user158",
+                "user320",
+                "user169",
+                "user170",
+                "user267",
+                "user240",
+                "user102",
+                "user114",
+                "user343",
+                "user345",
+                "user126",
+                "user179",
+                "user202",
+                "user116",
+                "user104",
+                "user187",
+                "user157",
+                "user241",
+                "user254",
+                "user261",
+                "user272",
+                "user159",
+                "user141",
+                "user112",
+                "user210",
+                "user234",
+                "user156",
+                "user344",
+                "user195",
+                "user149",
+                "user137",
+                "user216",
+                "user224",
+                "user239",
+                "user269",
+                "user103",
+                "user229",
+                "user281",
+                "user105",
+                "user282",
+                "user217",
+                "user148",
+                "user117",
+                "user341",
+                "user213",
+                "user260",
+                "user318",
+                "user306",
+                "user212",
+                "user252",
+                "user249",
+                "user215",
+                "user289",
+                "user333",
+                "user301",
+                "user162",
+                "user347",
+                "user277",
+                "user183",
+                "user278",
+                "user121",
+                "user218",
+                "user303",
+                "user125",
+                "user335",
+                "user107",
+                "user297",
+                "user174",
+                "user219",
+                "user139",
+                "user276",
+                "user275",
+                "user146",
+                "user273",
+                "user184",
+                "user233",
+                "user192",
+                "user308",
+                "user173",
+                "user131",
+                "user177",
+                "user266",
+                "user309",
+                "user245",
+                "user250",
+                "user337",
+                "user144",
+                "user120",
+                "user209",
+                "user205",
+                "user206",
+                "user280",
+                "user231",
+                "user163",
+                "user171",
+                "user311",
+                "user172",
+                "user214",
+                "user236",
+                "user208",
+                "user155",
+                "user342",
+                "user235",
+                "user237",
+                "user302",
+                "user251",
+                "user244",
+                "user323",
+                "user108",
+                "user259",
+                "user256",
+                "user295",
+                "user211",
+                "user193",
+                "user253",
+                "user228",
+                "user268",
+                "user186",
+                "user299",
+                "user201",
+                "user298",
+                "user160",
+                "user185",
+                "user164",
+                "user204",
+                "user140",
+                "user221",
+                "user328",
+                "user286",
+                "user138",
+                "user334",
+                "user262",
+                "user336",
+                "user346",
+                "user238",
+                "user197",
+                "user230",
+                "user313",
+                "user290",
+                "user315",
+                "user329",
+                "user263",
+                "user270",
+                "user338",
+                "user340",
+                "user326",
+                "user203",
+                "user180",
+                "user255",
+                "user291",
+                "user300",
+                "user246",
+                "user220",
+                "user227",
+                "user151",
+                "user226",
+                "user327",
+                "user305",
+                "user319"
+            ]
+        },
+        {
+            "cluster_id": "cluster_1",
+            "users": [
+                "user65",
+                "user18",
+                "user39",
+                "user28",
+                "user10",
+                "user84",
+                "user93",
+                "user66",
+                "user88",
+                "user90",
+                "user79",
+                "user27",
+                "user95",
+                "user96",
+                "user78",
+                "user15",
+                "user60",
+                "user13",
+                "user69",
+                "user97",
+                "user42",
+                "user63",
+                "user94",
+                "user9",
+                "user22",
+                "user49",
+                "user34",
+                "user7",
+                "user82",
+                "user62",
+                "user64",
+                "user75",
+                "user40",
+                "user55",
+                "user83",
+                "user41",
+                "user72",
+                "user45",
+                "user6",
+                "user11",
+                "user50",
+                "user56",
+                "user91",
+                "user44",
+                "user58",
+                "user59",
+                "user73",
+                "user52",
+                "user25",
+                "user26",
+                "user24",
+                "user30",
+                "user14",
+                "user38",
+                "user81",
+                "user68",
+                "user16",
+                "user33",
+                "user32",
+                "user46",
+                "user21",
+                "user17",
+                "user35",
+                "user80",
+                "user31",
+                "user54",
+                "user99",
+                "user48",
+                "user5",
+                "user92",
+                "user98",
+                "user4",
+                "user19",
+                "user61",
+                "user53",
+                "user71",
+                "user8",
+                "user77",
+                "user87",
+                "user29",
+                "user12",
+                "user67",
+                "user1",
+                "user85",
+                "user36",
+                "user100",
+                "user51",
+                "user57",
+                "user89",
+                "user70",
+                "user76",
+                "user20",
+                "user43",
+                "user23",
+                "user37",
+                "user47",
+                "user74",
+                "user3",
+                "user86",
+                "user2"
+            ]
+        },
+        {
+            "cluster_id": "cluster_2",
+            "users": [
+                "user325",
+                "user312",
+                "user322",
+                "user317",
+                "user331",
+                "user324",
+                "user339",
+                "user307",
+                "user330",
+                "user350",
+                "user304",
+                "user321",
+                "user316",
+                "user310"
+            ]
+        }
+    ],
+    "retention_data": [
+        {
+            "cohort_date": "2021-01-01",
+            "day": 0,
+            "users": 82,
+            "retained": 82,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-01",
+            "day": 1,
+            "users": 82,
+            "retained": 23,
+            "retention_rate": 0.2804878048780488
+        },
+        {
+            "cohort_date": "2021-01-01",
+            "day": 2,
+            "users": 82,
+            "retained": 21,
+            "retention_rate": 0.25609756097560976
+        },
+        {
+            "cohort_date": "2021-01-01",
+            "day": 3,
+            "users": 82,
+            "retained": 35,
+            "retention_rate": 0.4268292682926829
+        },
+        {
+            "cohort_date": "2021-01-01",
+            "day": 4,
+            "users": 82,
+            "retained": 28,
+            "retention_rate": 0.34146341463414637
+        },
+        {
+            "cohort_date": "2021-01-01",
+            "day": 5,
+            "users": 82,
+            "retained": 25,
+            "retention_rate": 0.3048780487804878
+        },
+        {
+            "cohort_date": "2021-01-01",
+            "day": 6,
+            "users": 82,
+            "retained": 33,
+            "retention_rate": 0.4024390243902439
+        },
+        {
+            "cohort_date": "2021-01-02",
+            "day": 0,
+            "users": 65,
+            "retained": 65,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-02",
+            "day": 1,
+            "users": 65,
+            "retained": 21,
+            "retention_rate": 0.3230769230769231
+        },
+        {
+            "cohort_date": "2021-01-02",
+            "day": 2,
+            "users": 65,
+            "retained": 17,
+            "retention_rate": 0.26153846153846155
+        },
+        {
+            "cohort_date": "2021-01-02",
+            "day": 3,
+            "users": 65,
+            "retained": 24,
+            "retention_rate": 0.36923076923076925
+        },
+        {
+            "cohort_date": "2021-01-02",
+            "day": 4,
+            "users": 65,
+            "retained": 21,
+            "retention_rate": 0.3230769230769231
+        },
+        {
+            "cohort_date": "2021-01-02",
+            "day": 5,
+            "users": 65,
+            "retained": 24,
+            "retention_rate": 0.36923076923076925
+        },
+        {
+            "cohort_date": "2021-01-02",
+            "day": 6,
+            "users": 65,
+            "retained": 20,
+            "retention_rate": 0.3076923076923077
+        },
+        {
+            "cohort_date": "2021-01-03",
+            "day": 0,
+            "users": 40,
+            "retained": 40,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-03",
+            "day": 1,
+            "users": 40,
+            "retained": 13,
+            "retention_rate": 0.325
+        },
+        {
+            "cohort_date": "2021-01-03",
+            "day": 2,
+            "users": 40,
+            "retained": 18,
+            "retention_rate": 0.45
+        },
+        {
+            "cohort_date": "2021-01-03",
+            "day": 3,
+            "users": 40,
+            "retained": 13,
+            "retention_rate": 0.325
+        },
+        {
+            "cohort_date": "2021-01-03",
+            "day": 4,
+            "users": 40,
+            "retained": 15,
+            "retention_rate": 0.375
+        },
+        {
+            "cohort_date": "2021-01-03",
+            "day": 5,
+            "users": 40,
+            "retained": 13,
+            "retention_rate": 0.325
+        },
+        {
+            "cohort_date": "2021-01-03",
+            "day": 6,
+            "users": 40,
+            "retained": 16,
+            "retention_rate": 0.4
+        },
+        {
+            "cohort_date": "2021-01-04",
+            "day": 0,
+            "users": 34,
+            "retained": 34,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-04",
+            "day": 1,
+            "users": 34,
+            "retained": 11,
+            "retention_rate": 0.3235294117647059
+        },
+        {
+            "cohort_date": "2021-01-04",
+            "day": 2,
+            "users": 34,
+            "retained": 9,
+            "retention_rate": 0.2647058823529412
+        },
+        {
+            "cohort_date": "2021-01-04",
+            "day": 3,
+            "users": 34,
+            "retained": 9,
+            "retention_rate": 0.2647058823529412
+        },
+        {
+            "cohort_date": "2021-01-04",
+            "day": 4,
+            "users": 34,
+            "retained": 8,
+            "retention_rate": 0.23529411764705882
+        },
+        {
+            "cohort_date": "2021-01-04",
+            "day": 5,
+            "users": 34,
+            "retained": 8,
+            "retention_rate": 0.23529411764705882
+        },
+        {
+            "cohort_date": "2021-01-04",
+            "day": 6,
+            "users": 34,
+            "retained": 8,
+            "retention_rate": 0.23529411764705882
+        },
+        {
+            "cohort_date": "2021-01-05",
+            "day": 0,
+            "users": 21,
+            "retained": 21,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-05",
+            "day": 1,
+            "users": 21,
+            "retained": 4,
+            "retention_rate": 0.19047619047619047
+        },
+        {
+            "cohort_date": "2021-01-05",
+            "day": 2,
+            "users": 21,
+            "retained": 1,
+            "retention_rate": 0.047619047619047616
+        },
+        {
+            "cohort_date": "2021-01-05",
+            "day": 3,
+            "users": 21,
+            "retained": 4,
+            "retention_rate": 0.19047619047619047
+        },
+        {
+            "cohort_date": "2021-01-05",
+            "day": 4,
+            "users": 21,
+            "retained": 4,
+            "retention_rate": 0.19047619047619047
+        },
+        {
+            "cohort_date": "2021-01-05",
+            "day": 5,
+            "users": 21,
+            "retained": 1,
+            "retention_rate": 0.047619047619047616
+        },
+        {
+            "cohort_date": "2021-01-05",
+            "day": 6,
+            "users": 21,
+            "retained": 1,
+            "retention_rate": 0.047619047619047616
+        },
+        {
+            "cohort_date": "2021-01-06",
+            "day": 0,
+            "users": 19,
+            "retained": 19,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-06",
+            "day": 1,
+            "users": 19,
+            "retained": 3,
+            "retention_rate": 0.15789473684210525
+        },
+        {
+            "cohort_date": "2021-01-06",
+            "day": 2,
+            "users": 19,
+            "retained": 5,
+            "retention_rate": 0.2631578947368421
+        },
+        {
+            "cohort_date": "2021-01-06",
+            "day": 3,
+            "users": 19,
+            "retained": 4,
+            "retention_rate": 0.21052631578947367
+        },
+        {
+            "cohort_date": "2021-01-06",
+            "day": 4,
+            "users": 19,
+            "retained": 5,
+            "retention_rate": 0.2631578947368421
+        },
+        {
+            "cohort_date": "2021-01-06",
+            "day": 5,
+            "users": 19,
+            "retained": 3,
+            "retention_rate": 0.15789473684210525
+        },
+        {
+            "cohort_date": "2021-01-06",
+            "day": 6,
+            "users": 19,
+            "retained": 4,
+            "retention_rate": 0.21052631578947367
+        },
+        {
+            "cohort_date": "2021-01-07",
+            "day": 0,
+            "users": 14,
+            "retained": 14,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-07",
+            "day": 1,
+            "users": 14,
+            "retained": 4,
+            "retention_rate": 0.2857142857142857
+        },
+        {
+            "cohort_date": "2021-01-07",
+            "day": 2,
+            "users": 14,
+            "retained": 4,
+            "retention_rate": 0.2857142857142857
+        },
+        {
+            "cohort_date": "2021-01-07",
+            "day": 3,
+            "users": 14,
+            "retained": 1,
+            "retention_rate": 0.07142857142857142
+        },
+        {
+            "cohort_date": "2021-01-07",
+            "day": 4,
+            "users": 14,
+            "retained": 3,
+            "retention_rate": 0.21428571428571427
+        },
+        {
+            "cohort_date": "2021-01-07",
+            "day": 5,
+            "users": 14,
+            "retained": 5,
+            "retention_rate": 0.35714285714285715
+        },
+        {
+            "cohort_date": "2021-01-07",
+            "day": 6,
+            "users": 14,
+            "retained": 7,
+            "retention_rate": 0.5
+        },
+        {
+            "cohort_date": "2021-01-08",
+            "day": 0,
+            "users": 10,
+            "retained": 10,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-08",
+            "day": 1,
+            "users": 10,
+            "retained": 1,
+            "retention_rate": 0.1
+        },
+        {
+            "cohort_date": "2021-01-08",
+            "day": 2,
+            "users": 10,
+            "retained": 3,
+            "retention_rate": 0.3
+        },
+        {
+            "cohort_date": "2021-01-08",
+            "day": 3,
+            "users": 10,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-08",
+            "day": 4,
+            "users": 10,
+            "retained": 3,
+            "retention_rate": 0.3
+        },
+        {
+            "cohort_date": "2021-01-08",
+            "day": 5,
+            "users": 10,
+            "retained": 3,
+            "retention_rate": 0.3
+        },
+        {
+            "cohort_date": "2021-01-08",
+            "day": 6,
+            "users": 10,
+            "retained": 1,
+            "retention_rate": 0.1
+        },
+        {
+            "cohort_date": "2021-01-09",
+            "day": 0,
+            "users": 11,
+            "retained": 11,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-09",
+            "day": 1,
+            "users": 11,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-09",
+            "day": 2,
+            "users": 11,
+            "retained": 1,
+            "retention_rate": 0.09090909090909091
+        },
+        {
+            "cohort_date": "2021-01-09",
+            "day": 3,
+            "users": 11,
+            "retained": 1,
+            "retention_rate": 0.09090909090909091
+        },
+        {
+            "cohort_date": "2021-01-09",
+            "day": 4,
+            "users": 11,
+            "retained": 1,
+            "retention_rate": 0.09090909090909091
+        },
+        {
+            "cohort_date": "2021-01-09",
+            "day": 5,
+            "users": 11,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-09",
+            "day": 6,
+            "users": 11,
+            "retained": 3,
+            "retention_rate": 0.2727272727272727
+        },
+        {
+            "cohort_date": "2021-01-10",
+            "day": 0,
+            "users": 9,
+            "retained": 9,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-10",
+            "day": 1,
+            "users": 9,
+            "retained": 1,
+            "retention_rate": 0.1111111111111111
+        },
+        {
+            "cohort_date": "2021-01-10",
+            "day": 2,
+            "users": 9,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-10",
+            "day": 3,
+            "users": 9,
+            "retained": 1,
+            "retention_rate": 0.1111111111111111
+        },
+        {
+            "cohort_date": "2021-01-10",
+            "day": 4,
+            "users": 9,
+            "retained": 1,
+            "retention_rate": 0.1111111111111111
+        },
+        {
+            "cohort_date": "2021-01-10",
+            "day": 5,
+            "users": 9,
+            "retained": 4,
+            "retention_rate": 0.4444444444444444
+        },
+        {
+            "cohort_date": "2021-01-10",
+            "day": 6,
+            "users": 9,
+            "retained": 2,
+            "retention_rate": 0.2222222222222222
+        },
+        {
+            "cohort_date": "2021-01-11",
+            "day": 0,
+            "users": 4,
+            "retained": 4,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-11",
+            "day": 1,
+            "users": 4,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-11",
+            "day": 2,
+            "users": 4,
+            "retained": 1,
+            "retention_rate": 0.25
+        },
+        {
+            "cohort_date": "2021-01-11",
+            "day": 3,
+            "users": 4,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-11",
+            "day": 4,
+            "users": 4,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-11",
+            "day": 5,
+            "users": 4,
+            "retained": 3,
+            "retention_rate": 0.75
+        },
+        {
+            "cohort_date": "2021-01-11",
+            "day": 6,
+            "users": 4,
+            "retained": 1,
+            "retention_rate": 0.25
+        },
+        {
+            "cohort_date": "2021-01-12",
+            "day": 0,
+            "users": 8,
+            "retained": 8,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-12",
+            "day": 1,
+            "users": 8,
+            "retained": 2,
+            "retention_rate": 0.25
+        },
+        {
+            "cohort_date": "2021-01-12",
+            "day": 2,
+            "users": 8,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-12",
+            "day": 3,
+            "users": 8,
+            "retained": 1,
+            "retention_rate": 0.125
+        },
+        {
+            "cohort_date": "2021-01-12",
+            "day": 4,
+            "users": 8,
+            "retained": 1,
+            "retention_rate": 0.125
+        },
+        {
+            "cohort_date": "2021-01-12",
+            "day": 5,
+            "users": 8,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-12",
+            "day": 6,
+            "users": 8,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-13",
+            "day": 0,
+            "users": 7,
+            "retained": 7,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-13",
+            "day": 1,
+            "users": 7,
+            "retained": 1,
+            "retention_rate": 0.14285714285714285
+        },
+        {
+            "cohort_date": "2021-01-13",
+            "day": 2,
+            "users": 7,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-13",
+            "day": 3,
+            "users": 7,
+            "retained": 2,
+            "retention_rate": 0.2857142857142857
+        },
+        {
+            "cohort_date": "2021-01-13",
+            "day": 4,
+            "users": 7,
+            "retained": 1,
+            "retention_rate": 0.14285714285714285
+        },
+        {
+            "cohort_date": "2021-01-13",
+            "day": 5,
+            "users": 7,
+            "retained": 1,
+            "retention_rate": 0.14285714285714285
+        },
+        {
+            "cohort_date": "2021-01-13",
+            "day": 6,
+            "users": 7,
+            "retained": 1,
+            "retention_rate": 0.14285714285714285
+        },
+        {
+            "cohort_date": "2021-01-14",
+            "day": 0,
+            "users": 3,
+            "retained": 3,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-14",
+            "day": 1,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-14",
+            "day": 2,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-14",
+            "day": 3,
+            "users": 3,
+            "retained": 1,
+            "retention_rate": 0.3333333333333333
+        },
+        {
+            "cohort_date": "2021-01-14",
+            "day": 4,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-14",
+            "day": 5,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-14",
+            "day": 6,
+            "users": 3,
+            "retained": 1,
+            "retention_rate": 0.3333333333333333
+        },
+        {
+            "cohort_date": "2021-01-15",
+            "day": 0,
+            "users": 6,
+            "retained": 6,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-15",
+            "day": 1,
+            "users": 6,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-15",
+            "day": 2,
+            "users": 6,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-15",
+            "day": 3,
+            "users": 6,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-15",
+            "day": 4,
+            "users": 6,
+            "retained": 1,
+            "retention_rate": 0.16666666666666666
+        },
+        {
+            "cohort_date": "2021-01-15",
+            "day": 5,
+            "users": 6,
+            "retained": 1,
+            "retention_rate": 0.16666666666666666
+        },
+        {
+            "cohort_date": "2021-01-15",
+            "day": 6,
+            "users": 6,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-16",
+            "day": 0,
+            "users": 3,
+            "retained": 3,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-16",
+            "day": 1,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-16",
+            "day": 2,
+            "users": 3,
+            "retained": 1,
+            "retention_rate": 0.3333333333333333
+        },
+        {
+            "cohort_date": "2021-01-16",
+            "day": 3,
+            "users": 3,
+            "retained": 1,
+            "retention_rate": 0.3333333333333333
+        },
+        {
+            "cohort_date": "2021-01-16",
+            "day": 4,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-16",
+            "day": 5,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-16",
+            "day": 6,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-17",
+            "day": 0,
+            "users": 2,
+            "retained": 2,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-17",
+            "day": 1,
+            "users": 2,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-17",
+            "day": 2,
+            "users": 2,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-17",
+            "day": 3,
+            "users": 2,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-17",
+            "day": 4,
+            "users": 2,
+            "retained": 1,
+            "retention_rate": 0.5
+        },
+        {
+            "cohort_date": "2021-01-17",
+            "day": 5,
+            "users": 2,
+            "retained": 1,
+            "retention_rate": 0.5
+        },
+        {
+            "cohort_date": "2021-01-17",
+            "day": 6,
+            "users": 2,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-18",
+            "day": 0,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-18",
+            "day": 1,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-18",
+            "day": 2,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-18",
+            "day": 3,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-18",
+            "day": 4,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-18",
+            "day": 5,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-18",
+            "day": 6,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-19",
+            "day": 0,
+            "users": 3,
+            "retained": 3,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-19",
+            "day": 1,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-19",
+            "day": 2,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-19",
+            "day": 3,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-19",
+            "day": 4,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-19",
+            "day": 5,
+            "users": 3,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-19",
+            "day": 6,
+            "users": 3,
+            "retained": 2,
+            "retention_rate": 0.6666666666666666
+        },
+        {
+            "cohort_date": "2021-01-20",
+            "day": 0,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-20",
+            "day": 1,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-20",
+            "day": 2,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-20",
+            "day": 3,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-20",
+            "day": 4,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-20",
+            "day": 5,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-20",
+            "day": 6,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-21",
+            "day": 0,
+            "users": 2,
+            "retained": 2,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-21",
+            "day": 1,
+            "users": 2,
+            "retained": 1,
+            "retention_rate": 0.5
+        },
+        {
+            "cohort_date": "2021-01-21",
+            "day": 2,
+            "users": 2,
+            "retained": 1,
+            "retention_rate": 0.5
+        },
+        {
+            "cohort_date": "2021-01-21",
+            "day": 3,
+            "users": 2,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-21",
+            "day": 4,
+            "users": 2,
+            "retained": 1,
+            "retention_rate": 0.5
+        },
+        {
+            "cohort_date": "2021-01-21",
+            "day": 5,
+            "users": 2,
+            "retained": 1,
+            "retention_rate": 0.5
+        },
+        {
+            "cohort_date": "2021-01-21",
+            "day": 6,
+            "users": 2,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-23",
+            "day": 0,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-23",
+            "day": 1,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-23",
+            "day": 2,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-23",
+            "day": 3,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-23",
+            "day": 4,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-23",
+            "day": 5,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-23",
+            "day": 6,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-26",
+            "day": 0,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-26",
+            "day": 1,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-26",
+            "day": 2,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-01-26",
+            "day": 3,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-26",
+            "day": 4,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-26",
+            "day": 5,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-01-26",
+            "day": 6,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-05",
+            "day": 0,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-02-05",
+            "day": 1,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-05",
+            "day": 2,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-05",
+            "day": 3,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-02-05",
+            "day": 4,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-02-05",
+            "day": 5,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-05",
+            "day": 6,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-13",
+            "day": 0,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-02-13",
+            "day": 1,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-13",
+            "day": 2,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-13",
+            "day": 3,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-13",
+            "day": 4,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-13",
+            "day": 5,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-02-13",
+            "day": 6,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-03-08",
+            "day": 0,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-03-08",
+            "day": 1,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-03-08",
+            "day": 2,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-03-08",
+            "day": 3,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        },
+        {
+            "cohort_date": "2021-03-08",
+            "day": 4,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-03-08",
+            "day": 5,
+            "users": 1,
+            "retained": 0,
+            "retention_rate": 0.0
+        },
+        {
+            "cohort_date": "2021-03-08",
+            "day": 6,
+            "users": 1,
+            "retained": 1,
+            "retention_rate": 1.0
+        }
+    ]
+}

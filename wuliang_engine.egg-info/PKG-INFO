@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: wuliang_engine
+Version: 0.1.0
+Summary: A comprehensive user behavior analysis engine
+Author-email: Your Name <your.email@example.com>
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn

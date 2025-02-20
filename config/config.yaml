@@ -1,0 +1,22 @@
+app:
+  name: "无量引擎"
+  version: "1.0.0"
+  debug: false
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+  workers: 4
+  timeout: 60
+  debug: true
+
+logging:
+  level: "INFO"
+  file: "logs/app.log"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  log_file: "logs/wuliang.log"
+
+analysis:
+  batch_size: 1000
+  max_workers: 4
+  timeout: 300
