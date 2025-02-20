@@ -132,7 +132,7 @@ portrait = analyzer.generate_portrait(user_data)
 
 ## 联系我们
 
-- 项目维护者: [ipeng](mailto:ipeng@example.com)
+- 项目维护者: [lipengfei](https://github.com/ipengfei1994)
 - 项目主页: [GitHub Repository](https://github.com/ipeng/wuliang_engine)
 
 ## 致谢
